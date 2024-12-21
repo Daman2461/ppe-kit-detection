@@ -1,0 +1,53 @@
+{% load static %}
+
+<html>
+<head>
+    <title>File List</title>
+    <link rel="stylesheet" href="{% static 'myapp/style.css' %}">
+    <style>
+        .file-pair {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 20px;
+        }
+        .file-item {
+            width: 48%;  /* Adjust the width to control the spacing */
+            text-align: center;
+        }
+        .file-item img, .file-item video {
+            width: 100%;
+            max-width: 320px;
+        }
+    </style>
+</head>
+<body>
+     
+    <h2>Processed Outputs</h2>
+    <div class="file-list">
+        {% for file in uploads %}
+            <div class="file-pair">
+                <!-- Display uploaded file -->
+                <div class="file-item">
+                    <p>Input Image {{ loop.index }}:</p>
+                    <img src="/media/uploads/{{ file }}" alt="Uploaded Image">
+                </div>
+
+                <!-- Display processed output -->
+                <div class="file-item">
+                    <p>Output Image {{ loop.index }}:</p>
+                    {% if file|slice:"-4:" == ".mp4" %}
+                        <video controls>
+                            <source src="/media/outputs/{{file}}/{{ file|slice:":-4"|add:".avi" }}" type="video/avi">
+                        </video>
+                    {% else %}
+                        <img src="/media/outputs/{{file}}/{{ file|slice:":-4"|add:".jpg" }}" alt="Processed Image">
+                    {% endif %}
+                </div>
+            </div>
+        {% endfor %}
+    
+
+    <a href="{% url 'upload_file' %}">Upload More</a>
+</div>
+</body>
+</html>

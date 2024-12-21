@@ -1,0 +1,19 @@
+{% load static %}
+
+<html>
+<head>
+    <title>Upload File</title>
+    <link rel="stylesheet" href="{% static 'myapp/style.css' %}">
+</head>
+<body>
+    <div class="upload-container">
+        <h1>Upload a File</h1>
+        <form method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            <input type="file" name="file" accept="image/*,video/*" required>
+            <button type="submit">Upload</button>
+        </form>
+        <a href="{% url 'list_files' %}">View Files</a>
+    </div>
+</body>
+</html>
