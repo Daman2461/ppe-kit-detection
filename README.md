@@ -31,3 +31,18 @@ Ensure the following are installed on your system:
 - Web browser with webcam access
 
  
+<img width="1512" alt="image" src="https://github.com/user-attachments/assets/0a3a6243-90af-4bf4-9069-675735df009d" />
+
+
+
+<img width="1024" alt="image" src="https://github.com/user-attachments/assets/d4c18283-5382-436b-9855-0017f55bb661" />
+
+
+<img width="1217" alt="image" src="https://github.com/user-attachments/assets/261b31ac-f0e3-44a5-b7fc-ca16031b7e72" />
+
+<img width="1217" alt="image" src="https://github.com/user-attachments/assets/2eb57112-39c4-4cf3-b84e-ed2df4a30662" />
+
+
+<img width="1512" alt="image" src="https://github.com/user-attachments/assets/a43dfa95-97d7-4d84-9537-03ae7837fc2a" />
+
+
