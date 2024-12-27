@@ -4,14 +4,19 @@ and run manage.py
 
 python demo/manage.py runserver
 
-<img width="512" alt="image" src="https://github.com/user-attachments/assets/0a3a6243-90af-4bf4-9069-675735df009d" /><img width="512" alt="image" src="https://github.com/user-attachments/assets/d4c18283-5382-436b-9855-0017f55bb661" />
+<div align="center">
+  <table>
+    <tr>
+      <td><img width="512" alt="image" src="https://github.com/user-attachments/assets/0a3a6243-90af-4bf4-9069-675735df009d" /></td>
+      <td><img width="512" alt="image" src="https://github.com/user-attachments/assets/d4c18283-5382-436b-9855-0017f55bb661" /></td>
+    </tr>
+    <tr>
+      <td><img width="512" alt="image" src="https://github.com/user-attachments/assets/261b31ac-f0e3-44a5-b7fc-ca16031b7e72" /></td>
+      <td><img width="700" alt="image" src="https://github.com/user-attachments/assets/b0224905-7b0a-4c76-9d7c-bf579fdc038c" /></td>
+    </tr>
+  </table>
+</div>
 
-
-<img width="512" alt="image" src="https://github.com/user-attachments/assets/261b31ac-f0e3-44a5-b7fc-ca16031b7e72" />
-
- 
-
-<img width="521" alt="image" src="https://github.com/user-attachments/assets/b0224905-7b0a-4c76-9d7c-bf579fdc038c" />
 
 # PPE Detector: A Django-Based Personal Protective Equipment Detection App
 
