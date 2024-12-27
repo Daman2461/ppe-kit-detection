@@ -4,11 +4,7 @@ and run manage.py
 
 python demo/manage.py runserver
 
-<img width="512" alt="image" src="https://github.com/user-attachments/assets/0a3a6243-90af-4bf4-9069-675735df009d" />
-
-
-
-<img width="512" alt="image" src="https://github.com/user-attachments/assets/d4c18283-5382-436b-9855-0017f55bb661" />
+<img width="512" alt="image" src="https://github.com/user-attachments/assets/0a3a6243-90af-4bf4-9069-675735df009d" /><img width="512" alt="image" src="https://github.com/user-attachments/assets/d4c18283-5382-436b-9855-0017f55bb661" />
 
 
 <img width="512" alt="image" src="https://github.com/user-attachments/assets/261b31ac-f0e3-44a5-b7fc-ca16031b7e72" />
