@@ -13,7 +13,7 @@ python demo/manage.py runserver
 
 <img width="512" alt="image" src="https://github.com/user-attachments/assets/261b31ac-f0e3-44a5-b7fc-ca16031b7e72" />
 
-<img width="512" alt="image" src="https://github.com/user-attachments/assets/2eb57112-39c4-4cf3-b84e-ed2df4a30662" />
+ 
 
 <img width="521" alt="image" src="https://github.com/user-attachments/assets/b0224905-7b0a-4c76-9d7c-bf579fdc038c" />
 
