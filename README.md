@@ -44,6 +44,13 @@ Ensure the following are installed on your system:
 - TensorFlow or PyTorch (depending on the model used)
 - Web browser with webcam access
 
+### Installation
+ Clone this repository:
+   ```bash
+   git clone  https://github.com/Daman2461/milestone2-ppe-kit-detection.git
+   cd demo
+   python manage.py runserver
+```
  
 
 
