@@ -41,6 +41,7 @@ Ensure the following are installed on your system:
 - Python 3.8+
 - Django 4.0+
 - OpenCV
+- YoloV8
 - TensorFlow or PyTorch (depending on the model used)
 - Web browser with webcam access
 
