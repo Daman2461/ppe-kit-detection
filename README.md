@@ -12,7 +12,7 @@ python demo/manage.py runserver
     </tr>
     <tr>
       <td><img width="700" alt="image" src="https://github.com/user-attachments/assets/261b31ac-f0e3-44a5-b7fc-ca16031b7e72" /></td>
-      <td><img width="700" alt="image" src="https://github.com/user-attachments/assets/b0224905-7b0a-4c76-9d7c-bf579fdc038c" /></td>
+       
     </tr>
   </table>
 </div>
